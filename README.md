@@ -25,7 +25,7 @@ This repository contains the projects I developed during my Python Internship at
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CodeSoft-Python-Intern-Tasks.git
+    git clone https://github.com/Lokesh-006/CodeSoft_Python_Intern/tree/main
     ```
 2. Navigate to the project directory:
     ```bash
